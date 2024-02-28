@@ -1,0 +1,18 @@
+.link-item {
+  text-decoration: none;
+  display: flex;
+}
+
+.icon {
+  font-size: 21px;
+  margin-top: 15px;
+  margin-right: 21px;
+}
+
+.light {
+  color: #181818;
+}
+
+.dark {
+  color: #f9f9f9;
+}
